@@ -92,6 +92,13 @@ Provide actionable recommendations for decision-making.
   * Profitability-focused marketing strategies.
 
 ---
+## Snapshots
+
+![Load and Transform Data](loadandtransform.png)
+![Descriptive Analysis](descriptiveanalysis.png)
+![Predictive Analysis](predictiveanalysis.png)
+![Prescriptive Analysis](prescriptiveanalysis.png)
+
 
 ## Key Insights
 
