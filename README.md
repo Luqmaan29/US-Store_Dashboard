@@ -114,6 +114,3 @@ Provide actionable recommendations for decision-making.
 
 The dashboard provides a **complete analytical view** of US Store data, guiding stakeholders with clear insights and recommendations for **sales growth**, **profit improvement**, and **operational efficiency**.
 
----
-
-Do you want me to **add a short "How to Use" section** (e.g., how to open and interact with the dashboard on Power BI)? Or should I **keep it as a project overview only**?
